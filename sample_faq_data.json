@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, click on the 'Forgot Password' link on the login page. Enter your email address, and we'll send you instructions to create a new password. The reset link will be valid for 24 hours.",
+    "tags": ["password", "account", "login", "security"],
+    "category": "Account Management"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, and bank transfers for enterprise customers. All payments are processed securely through our encrypted payment gateway.",
+    "tags": ["payment", "billing", "credit card", "paypal"],
+    "category": "Billing"
+  },
+  {
+    "question": "How can I cancel my subscription?",
+    "answer": "You can cancel your subscription at any time from your account settings. Go to Settings > Subscription > Cancel Subscription. Your access will continue until the end of your current billing period. No refunds are provided for partial months.",
+    "tags": ["subscription", "cancel", "billing", "account"],
+    "category": "Billing"
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes, we take data security very seriously. All data is encrypted both in transit (using TLS 1.3) and at rest (using AES-256 encryption). We perform regular security audits and are compliant with GDPR, SOC 2, and ISO 27001 standards.",
+    "tags": ["security", "privacy", "encryption", "data protection"],
+    "category": "Security"
+  },
+  {
+    "question": "What browsers are supported?",
+    "answer": "Our platform supports the latest versions of Chrome, Firefox, Safari, and Edge. For the best experience, we recommend using the latest version of Chrome or Firefox. Internet Explorer is not supported.",
+    "tags": ["browser", "compatibility", "technical", "requirements"],
+    "category": "Technical Support"
+  },
+  {
+    "question": "How do I export my data?",
+    "answer": "To export your data, go to Settings > Data Management > Export Data. You can choose to export in CSV, JSON, or Excel format. Large exports may take some time to process and will be sent to your email when ready.",
+    "tags": ["export", "data", "csv", "json", "backup"],
+    "category": "Data Management"
+  },
+  {
+    "question": "Do you offer a free trial?",
+    "answer": "Yes! We offer a 14-day free trial with full access to all features. No credit card is required to start your trial. You can upgrade to a paid plan at any time during or after the trial period.",
+    "tags": ["trial", "free", "pricing", "subscription"],
+    "category": "Billing"
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our customer support team through multiple channels: 1) Email us at support@example.com, 2) Use the live chat feature in the bottom-right corner of any page, 3) Call us at 1-800-SUPPORT (Mon-Fri, 9AM-5PM EST). Premium customers have 24/7 support access.",
+    "tags": ["support", "contact", "help", "customer service"],
+    "category": "Support"
+  },
+  {
+    "question": "Can I integrate with other tools?",
+    "answer": "Yes, we offer integrations with over 50 popular tools including Slack, Microsoft Teams, Google Workspace, Salesforce, and more. You can find all available integrations in the Integrations section of your dashboard. We also provide a REST API for custom integrations.",
+    "tags": ["integration", "api", "tools", "third-party", "slack"],
+    "category": "Integrations"
+  },
+  {
+    "question": "What is your uptime guarantee?",
+    "answer": "We guarantee 99.9% uptime for all paid plans. Our infrastructure is hosted on multiple cloud providers with automatic failover capabilities. You can check our current status and historical uptime at status.example.com.",
+    "tags": ["uptime", "reliability", "sla", "status"],
+    "category": "Technical Support"
+  },
+  {
+    "question": "How do I add team members?",
+    "answer": "To add team members, navigate to Settings > Team Management > Invite Members. Enter their email addresses and assign appropriate roles (Admin, Editor, or Viewer). They will receive an invitation email to join your workspace.",
+    "tags": ["team", "collaboration", "users", "invite", "members"],
+    "category": "Account Management"
+  },
+  {
+    "question": "What are the storage limits?",
+    "answer": "Storage limits vary by plan: Basic (10GB), Professional (100GB), Enterprise (Unlimited). File size limit is 100MB per file. If you need additional storage, you can upgrade your plan or purchase additional storage blocks.",
+    "tags": ["storage", "limits", "files", "capacity", "upgrade"],
+    "category": "Technical Support"
+  },
+  {
+    "question": "How do I enable two-factor authentication?",
+    "answer": "To enable 2FA: 1) Go to Settings > Security > Two-Factor Authentication, 2) Click 'Enable 2FA', 3) Scan the QR code with your authenticator app (Google Authenticator, Authy, etc.), 4) Enter the 6-digit code to confirm. Save your backup codes in a safe place.",
+    "tags": ["2fa", "security", "authentication", "login", "account"],
+    "category": "Security"
+  },
+  {
+    "question": "Can I customize the interface?",
+    "answer": "Yes! You can customize many aspects of the interface including theme (light/dark), dashboard layout, and notification preferences. Go to Settings > Preferences to adjust these settings. Enterprise customers can also apply custom branding.",
+    "tags": ["customization", "interface", "theme", "branding", "settings"],
+    "category": "Features"
+  },
+  {
+    "question": "What happens if I exceed my plan limits?",
+    "answer": "If you exceed your plan limits, you'll receive a notification email. For storage limits, you won't be able to upload new files until you free up space or upgrade. For user limits, you'll need to upgrade to add more team members. We offer a 7-day grace period before any service interruption.",
+    "tags": ["limits", "quota", "upgrade", "overage", "billing"],
+    "category": "Billing"
+  }
+]
